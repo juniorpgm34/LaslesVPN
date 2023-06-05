@@ -1,0 +1,107 @@
+.cardFooter {
+    border: none;
+    border-radius: 18px;
+    box-shadow: 2px 10px 20px 10px rgb(230, 230, 230);
+}
+
+.cardFooter .card-body {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 4rem;
+}
+
+
+.cardFooter .card-body > div > button {
+    padding: 0.9rem 4.5rem;
+    font-size: 0.85rem;
+    border-radius: 10px;
+    background-color: #F53838;
+    border: none;
+    box-shadow: 1px 10px 20px 1px #fab9b9;
+}
+
+.cardFooter  p {
+    font-weight: 300;
+}
+
+.cardFooter h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1rem; 
+}
+
+.list-footer > p {
+    font-weight: 300;
+    font-size: 0.9rem;
+    margin: 0.9rem 0;
+}
+
+.list-footer > h5 {
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+}
+
+.social-icon {
+    margin: 1.5rem 0;
+}
+
+.social-icon a {
+    background-color: white;
+    margin: 1rem;
+    padding: 0.2rem 0.5rem;
+    padding-bottom: 0.3rem;
+    border-radius: 20px;
+    box-shadow: 2px 3px 10px 1px rgb(230, 230, 230);
+}
+
+.social-icon img {
+    height: 0.9rem;
+}
+
+.laslesvpn-footer h5 {
+    margin-bottom: 1rem;
+}
+
+.laslesvpn-footer p {
+    font-weight: 300;
+    line-height: 2rem;
+}
+
+.laslesvpn-footer span {
+    font-weight: 300;
+    color: rgb(170, 170, 170);
+}
+
+.backgroundColor3 {
+    background-color: #f8f8f8;
+}
+
+.list-footer p:hover  {
+    cursor: pointer;
+}
+
+@media (min-width: 360px) and (max-width: 574px) {
+    .cardFooter .card-body {
+        padding: 1.5rem 1rem 0.5rem 1rem;
+    }    
+
+    .cardFooter  p {
+        font-size: 0.9rem;
+        font-weight: 300;
+    }
+    
+    .cardFooter h1 {
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem; 
+    }
+
+    .cardFooter .card-body > div > button {
+        padding: 0.7rem 1rem;
+        font-size: 0.7rem;
+       
+    }
+
+    .list-footer {
+        margin-bottom: 1rem;
+    }
+
+}

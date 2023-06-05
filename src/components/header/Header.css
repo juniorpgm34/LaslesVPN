@@ -1,0 +1,59 @@
+
+.navbar-collapse .nav-link.active,
+.navbar-collapse .nav-item.active,
+.nav-link:hover, .nav > span:hover {
+    color: #F53838 !important;
+}
+
+.buttonSingUp {
+    color: #F53838;
+    border: 1px solid #F53838;
+    border-radius: 10rem;
+    padding: 0 2.5rem;
+    margin-left: 2rem;
+    background-color: transparent;
+}
+
+.buttonSingUp:hover {
+    background-color: #F53838;
+    border: 1px solid #F53838;
+    box-shadow: 1px 1px 3px rgb(253, 176, 178);
+
+}
+
+/* Responsive */
+
+@media (min-width: 360px) and (max-width: 574px){
+   
+    .nav-header {
+        padding: 1rem !important;
+    }
+   
+    .navbar-brand {
+        margin: 0;
+        margin-left: 1rem;
+    }    
+
+    button.navbar-toggler.collapsed {
+        margin-right: 2rem;
+    }
+
+    .login {
+        display: flex;
+        align-items: center;
+        margin-left: 3.8rem;
+    }
+
+    .login .nav-link {
+        margin-left: 1.9rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .login button {
+        padding: 0.4rem 2rem;
+    }
+
+    .login.collapsed.navbar-nav {
+        display: none;
+    }
+}

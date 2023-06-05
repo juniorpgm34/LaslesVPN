@@ -1,0 +1,14 @@
+.backgroundColor2 {
+    background-image: linear-gradient(to bottom, #f6f6f6, white)!important;
+}
+
+.cardPricingTitle {
+    padding-top: 3rem;
+}
+
+@media (min-width: 360px) and (max-width: 574px) {
+    .img-localization {
+        width: 100vw;
+    }
+    
+}

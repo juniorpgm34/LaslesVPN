@@ -1,0 +1,119 @@
+.about { 
+    padding-bottom: 6rem;
+}
+
+.cardAbout {
+    border: none;
+    font-weight: 300;
+    line-height: 2rem;
+}
+
+.cardAbout .card-title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.cardAbout .card-text {
+    margin-bottom: 2rem;
+}
+
+.buttonAbout {
+    padding: 0.9rem 4.5rem;
+    font-size: 0.85rem;
+    border-radius: 10px;
+    background-color: #F53838;
+    border: none;
+    box-shadow: 1px 10px 20px 1px #fab9b9;
+}
+
+.buttonAbout:hover {
+    background-color: #F53838;
+}
+
+.cardInformation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.miniCardInfo > .card-title {
+    font-size: 1.45rem;
+}
+
+.miniCardInfo {
+    flex-direction: column;
+    border: none;
+    margin-left: 2.1rem;
+    font-weight: 300;
+}
+
+.borderInfornation {
+    border-radius: 20px;
+    padding: 2.2rem 0;
+    box-shadow: 10px 10px 20px 10px rgb(245, 245, 245);
+}
+
+ /* Responsive  */
+
+@media (min-width: 360px) and (max-width: 574px){
+    .about {
+        display: flex;
+        justify-content: center;
+        width: 100vw;
+        padding-bottom: 1rem;
+        }
+
+    .about.row{
+        margin-bottom: 2rem;
+    }    
+
+    .cardAbout .card-title {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .cardAbout .card-text {
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+    }
+
+    .buttonAbout {
+        padding: 0.7rem 3rem;
+         font-size: 0.7rem;
+         margin-bottom: 1rem;
+         margin-left: 4rem;
+    }
+
+    .miniCardInfo {
+        margin-left: 0.5rem;
+    font-weight: 300;
+    }
+
+    .miniCardInfo > .card-title {
+        font-size: 0.9rem;
+        margin-bottom: 0;
+    }
+
+    .miniCardInfo > .card-text {
+        font-size: 0.7rem;
+    }
+
+    .cardInformation {
+        margin: 0;
+    }
+
+    .cardInformation img {
+        height: 2rem;
+    }
+
+    .borderInfornation {
+        padding: 0.1rem 0;
+    }
+
+    .cardInformation.center {
+        border-right: 1px solid rgb(235, 235, 235) !important;
+        border-left: 1px solid rgb(235, 235, 235)!important;
+        padding: 0 1rem;
+    }
+}

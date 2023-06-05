@@ -1,0 +1,55 @@
+.features {
+    margin-bottom: 8rem;
+    padding-top: 8rem;
+}
+
+.cardFeatures {
+    border: none;
+    font-weight: 300;
+    line-height: 2rem;
+    
+}
+
+.cardFeatures .card-title {
+    font-size: 2.6rem;
+    margin-bottom: 2rem;
+}
+
+.cardFeatures .card-text {
+    margin-bottom: 1rem;
+}
+
+.cardFeatures .card-img {
+    height: 26px;
+    width: 26px;
+    margin-right: 1rem;
+}
+
+@media (min-width: 360px) and (max-width: 574px) {
+    .features {
+        margin-bottom: 4rem;
+        padding-top: 1rem;
+        width: 100vw;
+    }
+
+    .cardFeatures .card-title {
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+    }
+
+    .cardFeatures .card-text {
+        font-size: 0.9rem;
+        margin-bottom: 0.4rem;
+    }
+
+    .cardFeatures .card-img {
+        height: 16px;
+        width: 16px;
+        margin-right: 0.5rem;
+    }
+
+    .cardFeatures {
+        width: 100% !important;
+    }
+
+}
