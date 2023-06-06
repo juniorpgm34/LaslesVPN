@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/LaslesVPN/static/css/main.fbfbe3f4.css",
+    "main.js": "/LaslesVPN/static/js/main.afb5ab72.js",
+    "static/js/787.a43bd572.chunk.js": "/LaslesVPN/static/js/787.a43bd572.chunk.js",
+    "static/media/HugeGlobal.png": "/LaslesVPN/static/media/HugeGlobal.e1cc198ef506bc9caf7f.png",
+    "static/media/aboutImage.png": "/LaslesVPN/static/media/aboutImage.8df6f8c418b84b50ac05.png",
+    "static/media/featuresImage.png": "/LaslesVPN/static/media/featuresImage.914612192fd3ba74fb44.png",
+    "static/media/Sponsored.png": "/LaslesVPN/static/media/Sponsored.5ed09fe732235f9f9afd.png",
+    "static/media/imagePricing.png": "/LaslesVPN/static/media/imagePricing.a662a7c0e679215c74fc.png",
+    "static/media/slick.svg": "/LaslesVPN/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/LaslesVPN/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/github-icon.svg": "/LaslesVPN/static/media/github-icon.c7b4191f1e0b0282d79fa918a618fd01.svg",
+    "static/media/slick.ttf": "/LaslesVPN/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/LaslesVPN/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/linkedin-icon.svg": "/LaslesVPN/static/media/linkedin-icon.4532af5e4ec26d7052a7b8db36429eec.svg",
+    "static/media/facebook-icon.svg": "/LaslesVPN/static/media/facebook-icon.e4f81c06f7d0c2005bf251a2f677b414.svg",
+    "index.html": "/LaslesVPN/index.html",
+    "main.fbfbe3f4.css.map": "/LaslesVPN/static/css/main.fbfbe3f4.css.map",
+    "main.afb5ab72.js.map": "/LaslesVPN/static/js/main.afb5ab72.js.map",
+    "787.a43bd572.chunk.js.map": "/LaslesVPN/static/js/787.a43bd572.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfbe3f4.css",
+    "static/js/main.afb5ab72.js"
+  ]
+}
