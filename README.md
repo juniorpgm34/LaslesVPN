@@ -1,75 +1,54 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# LaslesVPN - Landpage em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![LaslesVPN](https://github.com/juniorpgm34/LaslesVPN/assets/82614340/e08dea2a-4779-4762-b3a0-1f8882800a8e)
 
-## Available Scripts
+LaslesVPN é uma landpage responsiva desenvolvida em React, com o objetivo de apresentar e promover os serviços oferecidos pela LaslesVPN. A página utiliza as bibliotecas React Slick e React-Bootstrap para melhorar a experiência do usuário e garantir um layout agradável.
 
-In the project directory, you can run:
+## Acesse a landpage
 
-### `npm start`
+A landpage está disponível em [LaslesVPN](https://juniorpgm34.github.io/LaslesVPN/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# :computer: Tecnologias utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React
+- React Slick
+- React-Bootstrap
 
-### `npm test`
+# :pushpin: Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Certifique-se de ter o seguinte software instalado em seu sistema:
 
-### `npm run build`
+- Node.js (versão 12 ou superior)
+- npm (gerenciador de pacotes do Node.js)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# :inbox_tray: Instalação
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Siga as etapas abaixo para instalar e executar o projeto localmente:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone este repositório para o seu computador:
 
-### `npm run eject`
+```bash
+git clone https://github.com/seu-usuario/laslesvpn.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Navegue até o diretório do projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+cd laslesvpn
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Instale as dependências do projeto usando o npm:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm install
+```
 
-## Learn More
+4. Inicie o servidor de desenvolvimento:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Após executar esses comandos, o projeto será executado localmente em http://localhost:3000.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# LaslesVPN
-Um clone feito de um projeto gratis do  figma de uma landpage de um VPN utliziando o ReactJs
->>>>>>> 47195acedd92685ecf1c2c8bfdecfa92ae052ab1
