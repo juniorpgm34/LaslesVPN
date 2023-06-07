@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LaslesVPN/static/css/main.fbfbe3f4.css",
+    "main.css": "/LaslesVPN/static/css/main.5bd8359e.css",
     "main.js": "/LaslesVPN/static/js/main.afb5ab72.js",
     "static/js/787.a43bd572.chunk.js": "/LaslesVPN/static/js/787.a43bd572.chunk.js",
     "static/media/HugeGlobal.png": "/LaslesVPN/static/media/HugeGlobal.e1cc198ef506bc9caf7f.png",
@@ -16,12 +16,12 @@
     "static/media/linkedin-icon.svg": "/LaslesVPN/static/media/linkedin-icon.4532af5e4ec26d7052a7b8db36429eec.svg",
     "static/media/facebook-icon.svg": "/LaslesVPN/static/media/facebook-icon.e4f81c06f7d0c2005bf251a2f677b414.svg",
     "index.html": "/LaslesVPN/index.html",
-    "main.fbfbe3f4.css.map": "/LaslesVPN/static/css/main.fbfbe3f4.css.map",
+    "main.5bd8359e.css.map": "/LaslesVPN/static/css/main.5bd8359e.css.map",
     "main.afb5ab72.js.map": "/LaslesVPN/static/js/main.afb5ab72.js.map",
     "787.a43bd572.chunk.js.map": "/LaslesVPN/static/js/787.a43bd572.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbfbe3f4.css",
+    "static/css/main.5bd8359e.css",
     "static/js/main.afb5ab72.js"
   ]
 }
