@@ -1,4 +1,4 @@
-# LaslesVPN - Landpage em React  ![LaslesVPN](https://github.com/juniorpgm34/LaslesVPN/assets/82614340/e08dea2a-4779-4762-b3a0-1f8882800a8e)
+# LaslesVPN ![LaslesVPN](https://github.com/juniorpgm34/LaslesVPN/assets/82614340/e08dea2a-4779-4762-b3a0-1f8882800a8e) - Landpage em React  
 
 LaslesVPN é uma landpage responsiva desenvolvida em React, com o objetivo de apresentar e promover os serviços oferecidos pela LaslesVPN. A página utiliza as bibliotecas React Slick e React-Bootstrap para melhorar a experiência do usuário e garantir um layout agradável.
 
