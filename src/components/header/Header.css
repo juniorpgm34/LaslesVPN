@@ -53,7 +53,11 @@
         padding: 0.4rem 2rem;
     }
 
-    .login.collapsed.navbar-nav {
+    .login.navbar-nav {
         display: none;
+    }
+
+    .login.collapsed.navbar-nav {
+        display: flex;
     }
 }
